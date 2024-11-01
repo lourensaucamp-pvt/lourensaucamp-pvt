@@ -4,51 +4,36 @@
 ## 📈 My GitHub stats
 
 ### GitHub Contribution Chart
-<p align="center"><a href="https://github.com/lourensaucamp-pvt"><img src="https://ghchart.rshah.org/lourensaucamp-pvt" alt="Lourens's GitHub Contribution Chart"></a></p>
+<p align="center">
+  <a href="https://github.com/lourensaucamp-pvt">
+    <img src="https://ghchart.rshah.org/008080/lourensaucamp-pvt?&bg=2E3440&color=88C0D0&lc=ECEFF4" alt="Lourens's GitHub Contribution Chart">
+  </a>
+</p>
 
 
 **Git Stats Summary** 
 
-<p align="center"><img src="https://github-readme-bento.vercel.app/stats/lourensaucamp-pvt?theme=dark" alt="Lourens's GitHub Stats"/></p>
 <p align="center"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=lourensaucamp-pvt" alt="Advanced GitHub Stats for Lourens" width="400"/></p>
 
 
 <h3 align="center">Git Stats Private</h3>
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=lourensaucamp-pvt&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lourensaucamp-pvt&theme=nord&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lourensaucamp-pvt&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lourensaucamp-pvt&custom_title=Lourens's%20GitHub%20Activity%20Graph&hide_border=true&theme=nord&area=true" alt="GitHub Activity Graph" />
 <br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourensaucamp-pvt&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lourensaucamp-pvt&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lourensaucamp-pvt&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=lourensaucamp-pvt&hide_border=true&border_radius=15&show_icons=true&theme=nord" alt="Kenan's GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lourensaucamp-pvt&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lourensaucamp-pvt&theme=highcontrast&hide_border=true">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lourensaucamp-pvt&theme=nord&hide_border=true"/>
 
 ## 📈 My Work GitHub stats
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lourensaucamp-pvt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Lourens's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourensaucamp-pvt&theme=tokyonight&hide_border=true" alt="Lourens's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=lourensaucamp-pvt&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="Lourens's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourensaucamp-pvt&theme=nord&hide_border=true" alt="Lourens's Streak" height="165">
   </p>
 </div>
 
@@ -56,8 +41,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lourensaucamp-pvt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Lourens's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourensaucamp-pvt&theme=tokyonight&hide_border=true" alt="Lourens's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=lourensaucamp-pvt&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="Lourens's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourensaucamp-pvt&theme=nord&hide_border=true" alt="Lourens's Streak" height="165">
   </p>
 </div>
 
@@ -78,26 +63,51 @@
       </tr>
       <tr>
         <td><strong>Project Beta</strong></td>
-        <td>Web Development</td>
-        <td>JavaScript, HTML, CSS, Node.js</td>
+        <td>Data Pipeline</td>
+        <td>Airflow, Looker, Bigquery, Spark</td>
       </tr>
       <tr>
         <td><strong>Project Gamma</strong></td>
         <td>Machine Learning</td>
-        <td>Python, TensorFlow, scikit-learn</td>
+        <td>Python, TensorFlow, scikit-learn, matplotlib, seaborn, xgboost, sklearn</td>
       </tr>
       <tr>
         <td colspan="3" align="center"><strong>Summary of Stats</strong></td>
       </tr>
       <tr>
-        <td><strong>Total Commits</strong><br><span style="font-size: 1.2em;">1,234</span></td>
-        <td><strong>Stars</strong><br><span style="font-size: 1.2em;">56</span></td>
-        <td><strong>Pull Requests</strong><br><span style="font-size: 1.2em;">78</span></td>
+        <td><strong><img src="https://img.shields.io/badge/Project ML%20Commits-16-2196F3?style=flat" alt="Total Commits"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/Project ML%20Additions-6,469++%20-4CAF50?style=flat" alt="Total Additions"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/Project ML%20Deletions-2,805--%20-F44336?style=flat" alt="Total Deletions"></strong></td>
       </tr>
       <tr>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 1%20Commits-5-2196F3?style=flat" alt="Total Commits"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 1%20Additions-10,396++%20-4CAF50?style=flat" alt="Total Additions"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 1%20Deletions-5,467--%20-F44336?style=flat" alt="Total Deletions"></strong></td>
+      </tr>
+      <tr>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 2%20Commits-22-2196F3?style=flat" alt="Total Commits"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 2%20Additions-5,754+++%20-4CAF50?style=flat" alt="Total Additions"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 2%20Deletions-2,871--%20-F44336?style=flat" alt="Total Deletions"></strong></td>
+      </tr>
+      <tr>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 3%20Commits-17-2196F3?style=flat" alt="Total Commits"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 3%20Additions-12,390+++%20-4CAF50?style=flat" alt="Total Additions"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/SQL Project 3%20Deletions-36,134--%20-F44336?style=flat" alt="Total Deletions"></strong></td>
+      </tr>
+      <tr>
+        <td><strong><img src="https://img.shields.io/badge/Python/SQL Project 1%20Commits-137-2196F3?style=flat" alt="Total Commits"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/Python/SQL Project 1%20Additions-65,591+++%20-4CAF50?style=flat" alt="Total Additions"></strong></td>
+        <td><strong><img src="https://img.shields.io/badge/Python/SQL Project 1%20Deletions-13,558--%20-F44336?style=flat" alt="Total Deletions"></strong></td>
+      </tr>
+<tr>
+  <td><strong><img src="https://img.shields.io/badge/Total%20Commits-197-2196F3?style=flat" alt="Total Commits"></strong></td>
+  <td><strong><img src="https://img.shields.io/badge/Total%20Additions-100,600+++%20-4CAF50?style=flat" alt="Total Additions"></strong></td>
+  <td><strong><img src="https://img.shields.io/badge/Total%20Deletions-60,835--%20-F44336?style=flat" alt="Total Deletions"></strong></td>
+</tr>
+      <tr>
         <td colspan="3" align="center">
-          <strong>Contributions Streak</strong><br>
-          <span style="font-size: 1.2em;">🔥 50 days 🔥</span>
+          <strong>Contributions Timeline</strong><br>
+          <span style="font-size: 1.2em;">🔥 4 years 🔥</span>
         </td>
       </tr>
     </table>
@@ -358,4 +368,21 @@ With some cool NAS to help out
   </tbody>
 </table>
 </div>
-  
+
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.empowerbi.com" target="_blank">
+          <img src="https://www.empowerbi.com/images/settings/H9pBZsD715spGoWeRDhtfSZCwFlLcvQPOVYKqJ5M.png" alt="Empower BI" width="100">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.actalarel.com" target="_blank">
+          <img src="https://img1.wsimg.com/isteam/ip/6e05ac36-fa30-4677-9346-ad701d9bc5de/blob.png/:/rs=w:100,h:100,cg=true,m/cr=w:100,h:100/qt=q:95" alt="Acta Larel" width="100">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
